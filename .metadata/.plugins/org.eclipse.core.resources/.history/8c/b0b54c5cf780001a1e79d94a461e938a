@@ -1,0 +1,13 @@
+
+public class Exer15 {
+
+	public static void main(String[] args) {
+		
+		String texto = "1";
+		// String para tipos primitivos
+		int v1 = Integer.parseInt(arg0)
+		
+		
+	}
+
+}

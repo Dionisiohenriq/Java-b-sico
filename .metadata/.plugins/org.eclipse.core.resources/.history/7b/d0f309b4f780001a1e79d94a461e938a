@@ -1,0 +1,22 @@
+
+public class Exer15 {
+
+	public static void main(String[] args) {
+		
+		String texto = "1";
+		// String para tipos primitivos
+		byte v1 = Byte.parseByte(texto);
+		System.out.println(v1);
+		
+		short v2 = Short.parseShort(texto);
+		System.out.println(v2);
+		
+		int v3 = Integer.parseInt(texto);
+		System.out.println(v3);
+		
+		
+		
+		
+	}
+
+}

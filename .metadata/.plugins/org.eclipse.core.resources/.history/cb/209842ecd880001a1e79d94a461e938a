@@ -1,0 +1,15 @@
+import javax.swing.JOptionPane;
+
+public class Exer4 {
+
+	public static void main(String[] args) {
+		
+		for (int i = 0; i >= 10; i++){
+			
+		}
+		
+		Int tabuada = Integer.parseInt(JOptionPane.showInputDialog("Insira o número da tabuada"));
+		
+	}
+
+}
